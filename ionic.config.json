@@ -1,0 +1,7 @@
+{
+  "name": "DesinfeccionesAlicante",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
